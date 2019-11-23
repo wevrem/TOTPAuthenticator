@@ -5,7 +5,7 @@ project : TOTPAuthenticator
 	author : Mike Weaver
 	forked : 2019-08-15
 
-origin
+section : Original
 	author : Michael Kliewe
 	link : http://www.phpgangsta.de/
 
